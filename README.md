@@ -57,8 +57,7 @@ Logika cerdas di balik kalkulator:
 - **HTML**: Struktur halaman web dengan elemen kalkulator.
 - **CSS**: Gaya dan desain, termasuk animasi dan efek visual.
 - **JavaScript**: Logika kalkulator dan pengaturan background yang dinamis.
-
-## 📜 Lisensi
+  
 
 Semoga kalkulator ini memberikan manfaat dan kemudahan dalam perhitungan Anda!
 
