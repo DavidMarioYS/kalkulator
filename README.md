@@ -1,5 +1,3 @@
-Tentu! Berikut adalah versi README yang lebih kreatif dan menarik:
-
 ---
 
 # Kalkulator Sederhana
